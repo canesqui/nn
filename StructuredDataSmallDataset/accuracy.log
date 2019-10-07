@@ -1,0 +1,13 @@
+90
+88
+81
+78
+76
+81
+75
+
+
+-reorder columns to see if it affects the results
+-hyperparameter search if easy
+-try with liver dataset
+-check for setting random number seed (check online) - if I set on python, would numpy and tensorflow use it or do they have they own seed mechanism
